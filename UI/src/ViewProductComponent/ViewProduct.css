@@ -1,0 +1,14 @@
+#ptable
+{
+ height:180px;
+ width:450px;    
+}
+
+#vp{
+    height:100px;
+    width:450px; 
+}
+
+#ptable td[rowspan="3"] {
+    padding-right: 15px; /* Space between image and content */
+  }

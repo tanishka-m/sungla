@@ -1,0 +1,17 @@
+.btn-register {
+   background-color: #00cfff; /* Replace with the exact color of the Login button */
+   color: white;
+   border: none;
+   border-radius: 50px; /* Rounded corners like the Login button */
+   padding: 10px 20px; /* Adjust as needed */
+   font-size: 16px;
+   cursor: pointer;
+   transition: background-color 0.3s ease;
+ }
+
+ .btn-register:hover {
+   background-color: #000000; /* Black background on hover */
+   border-color: #000000;    /* Optional: Black border */
+   color: white;             /* Ensure text is readable */
+ }
+ 
